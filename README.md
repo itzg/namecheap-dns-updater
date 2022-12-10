@@ -1,0 +1,1 @@
+Updates a Namecheap dynamic DNS record by looking up public IP address with ipify.org
